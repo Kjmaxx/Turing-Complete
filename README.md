@@ -7,3 +7,5 @@ All components built can be seen as the level names completed on my profile repo
 https://turingcomplete.game/profile/197991
 
 Photos of the complete computer and ALU chip are available in the repository as "Complete" and "ALU" respectively.
+
+Abilities of the computer are limited, however it can execute stored instructions, perform arithmetic and logic operations, store and retrieve values from memory, and run simple programs.
